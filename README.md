@@ -1,29 +1,22 @@
 ### Hi there 👋
 
-<!-- 1. Apresentação,
-      Sou desenvolvedora FullStack com experiência em Laravel-PHP. Atuei como estagiária em projetos governamentais no Rio Grande do Norte, incluindo saúde e segurança pública. Tenho paixão por criar sistemas que melhorem a vida das pessoas e atualmente estudo análise e desenvolvimento de sistemas no IFRN.
-     3. Tecnologias 
-     2. Contato cmg
-
--->
-
  I'm a FullStack developer with expertise in Laravel-PHP. I interned on various government projects in the state of Rio Grande do Norte, spanning healthcare and public safety sectors. I'm passionate about creating systems that enhance people's lives, and I'm currently studying system analysis and development at IFRN. I’m looking to collaborate on projects motivate on me. A fun fact about me is that I love projects related to pets.
 
  <a href = "mailto:anacarolinapraxedes47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolina-praxedes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-## ⚡ Technologies
+## :computer: Technologies
 
 These are some of the technologies and tools that I work with:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,js,java,jquery,mysql" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,js,jquery,laravel,java,mysql" />
   </a>
 </p>
 
 
-## ⚡ Githubs Stats
+## :star2: Githubs Stats
 
 <p>
   <a href="https://github.com/carolinapraxedes">
